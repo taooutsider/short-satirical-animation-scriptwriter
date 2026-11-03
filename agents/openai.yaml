@@ -1,0 +1,4 @@
+interface:
+  display_name: "Short Satirical Animation Writer"
+  short_description: "Write tight, human, character-led animated satire."
+  default_prompt: "Write a short satirical animation script with a clear setup, escalation, punchline, performance direction, and timed visual beats."
